@@ -62,3 +62,11 @@ typings/
 
 #idea files
 .idea/
+
+#bundle files
+public/vendor.js
+public/app.js
+build/
+
+#jest coverage directory
+coverage/
